@@ -107,6 +107,7 @@ jobs:
         env:
           # Cross-compilation linker: use aarch64 gcc for Linux ARM builds
           CC_aarch64_unknown_linux_gnu: aarch64-linux-gnu-gcc
+          AR_aarch64_unknown_linux_gnu: aarch64-linux-gnu-ar
           CARGO_TARGET_AARCH64_UNKNOWN_LINUX_GNU_LINKER: aarch64-linux-gnu-gcc
 
       # Archive creation: wrap binary in platform-appropriate archive format

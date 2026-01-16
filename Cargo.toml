@@ -31,6 +31,7 @@ termimad = "0.34.1"
 duct = "1.1.1"
 duct_sh = "1.0.0"
 async-trait = "0.1"
+openssl = { version = "0.10", features = ["vendored"] }
 
 [lib]
 name = "picocode"
