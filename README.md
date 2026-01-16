@@ -1,15 +1,10 @@
-<center>
-<p>
-<br/>
-<img src="picocode.gif"/>
-<br/>
-<br/>
-</p>
-<hr/>
-<h1>⚡️ picocode</h1>
-<hr/>
-<br/>
-</center>
+<div align="center">
+  <img src="picocode.gif" width="600"/>
+  <br/>
+  <br/>
+  <h1>⚡️ picocode</h1>
+  <br/>
+</div>
 
 
 
